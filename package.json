@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0",
+    "version": "2.0.3",
     "name": "@bam.tech/react-native-root-siblings",
     "repository": {
         "type": "git",
@@ -9,6 +9,7 @@
     "main": "./lib/SiblingsManager",
     "description": "react native root sibling elements manager",
     "dependencies": {
+        "fbemitter": "^2.1.1",
         "static-container": "^1.0.0"
     },
     "keywords": [
