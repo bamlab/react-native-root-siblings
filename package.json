@@ -1,6 +1,6 @@
 {
-    "version": "1.2.1",
-    "name": "react-native-root-siblings",
+    "version": "2.0.0",
+    "name": "@bam.tech/react-native-root-siblings",
     "repository": {
         "type": "git",
         "url": "git@github.com:magicismight/react-native-root-siblings.git"
